@@ -87,8 +87,12 @@
 - `(2019/01/09)` Xamarin Asia Developers社群小聚2019 #01: Artificial Intelligence(AI) on Xamarin.Forms Part-2  
   <https://www.facebook.com/events/2208494779415338>
 
+- `(2019/02/16)` twMVC#34 lighting talk: ASP.NET Core SignalRwithMicrosoft Orleans  
+  <https://mvc.tw/event/2019/2/16>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7vlokHoTKW-NeNW1NA>
+
 - `(2019/03/06)` Xamarin Asia Developers社群小聚2019 #02: F# 與 MVU框架Fabulus 在 Xamarin 當中的使用介紹   
-  <https://www.facebook.com/events/325957884704810>
+  <https://www.facebook.com/events/325957884704810>  
   demo project: https://github.com/windperson/MyFabulousDemo
 
 - `(2019/03/23)` Xamarin Asia Developers線上直播小聚2019 #03: Xamarin watchOS App開發入門  
@@ -104,7 +108,7 @@
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr74t056DRhV9shVAxbg?e=XPrcwG>
 
 - `(2019/07/20)` Xamarin Asia Developers社群小聚2019 #06 實體小聚: Azure PlayFab with Xamarin  
-  <https://www.facebook.com/events/348868105775697>
+  <https://www.facebook.com/events/348868105775697>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7415vEgBdQqXNVEHKA?e=2xpRkA>
 
 - `(2019/08/31)` Xamarin Asia Developers線上直播小聚2019 #07: 在 Xamarin.Forms 上實現 Machine Learning 應用   
@@ -112,20 +116,28 @@
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr745W-0LFH3kEwUSMhg?e=gjyI9t>
 
 - `(2019/10/05)` Xamarin Asia Developers線上直播小聚2019 #08: Xamarin 語音辨識 with Native Platform or Azure  
-  <https://www.facebook.com/events/364951457792556>
+  <https://www.facebook.com/events/364951457792556>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75EVCA9f9Me_XwctdQ?e=nCBYKY>
 
 - `(2019/11/30)` Xamarin Asia Developers線上直播小聚2019 #09: MonoGame Introduction  
-  <https://www.facebook.com/events/403391487207077>
+  <https://www.facebook.com/events/403391487207077>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75V46XBxd6fg6OG9QA?e=Cmtbnc>
 
 - `(2019/12/27)` DDD Taiwan 12月聚會：ddd 在 .NET Core 上的另類實現 - Orleans  
-  <https://www.facebook.com/events/453492625566230>
+  <https://www.facebook.com/events/453492625566230>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YTl7071ej6MLNgMA?e=hIbFOU>
 
 - `(2020/01/18)` Xamarin Asia Developers線上直播小聚2020 #01: How to Use Icon Fonts in Xamarin.Forms  
-  <https://www.facebook.com/events/403391487207077>
+  <https://www.facebook.com/events/403391487207077>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YkcooaFN0HkNMsGQ?e=Eqw1NG>
+
+- `(2020/01/30)` XADs 社群 2021 #01 活動: Azure Spatial Anchor 在Xamarin 與 HoloLens2 的 AR 應用展示  
+  <https://www.facebook.com/events/777138102880365>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7_kdz9FXTsbYTrbIHQ>
+
+- `(2021/03/06)` twMVC#41: HoloLens 2的 MR（Mixed Reality）開發入門
+  <https://mvc.tw/event/2021/3/6>  
+  slide: <https://www.slideshare.net/twMVC/twmvc41-hololens2-mr>
 
 ### Open Source Project(s) contribution
 
