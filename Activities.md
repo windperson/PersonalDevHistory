@@ -2,7 +2,7 @@
 
 ## Contact Info
 
-- First Name : Chen-Yu
+- First Name : Isak
 - Last Name : Pao
 - Email : windperson@msn.com
 
@@ -10,75 +10,122 @@
 
 ### Speaking (Conference)
 
-- COSCUP 2017 `(2017/08/06)`:  
+- `(2017/08/06)` COSCUP 2017:  
   Go,Java,C# 的 gRPC + Protocol Buffer 共同大亂鬥  
   <http://coscup.org/2017/#/schedule/day2/3061450>  
   slide: <https://www.slideshare.net/ChenYuPao/go-java-cgrpcprotocol-buffer>
-- MonkeyFest 2018 - Global Xamarin Bootcamp in Taipei `(2018/11/10)`:  
+- `(2018/11/10)` MonkeyFest 2018 - Global Xamarin Bootcamp in Taipei :  
   FP(Functional Programming) on Xamarin 入門  
   https://www.facebook.com/events/302396750321401  
   https://www.accupass.com/go/monkeyfest18taipei  
   ![screen shot](./pics/MonkeyFest%202018_GlobalXamarinBootcampInTaipei.png)
-- 2019 Xamarin 移动跨平台技术中国峰会 `(2019/05)`:  
+- `(2019/05/26)` 2019 Xamarin 移动跨平台技术中国峰会:  
   Xamarin watchOS开发第一步  
+  <https://blog.csdn.net/sD7O95O/article/details/90526403>
   ![screen shot](./pics/Xamarin中国峰会2019.png)
-- .NET Conf 2020 By study4 (2020/12/18):  
+- `(2020/12/18)` .NET Conf 2020 By study4TW:  
   HoloLens 2的 MR（Mixed Reality）開發入門  
-  https://dotnetconf2020.study4.tw/Speaker#BaoChengyou  
+  <https://dotnetconf2020.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2020byStudy4tw.png)
 
-### Speaking (User group/Lighting talk)
+### Speaking (User group meetup / Conf Lighting talk)
 
-- Golang Taipei Gathering #28 (2017/10/24): Proto.Actor"串接Go與C#簡易上手  
+- `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
   <https://golang.kktix.cc/events/gtg28>  
   slide: <https://www.slideshare.net/ChenYuPao/proto-actor-go-c-81145090>
 
-- Xamarin社群小聚 #1 (2018/01/31): Xamarin 的 Azure 後端懶人包  
+- `(2018/01/31)` Xamarin Asia Developers社群小聚2018 #01: Xamarin 的 Azure 後端懶人包  
   <https://www.facebook.com/events/160179314705298/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7rkmJC9dZNAn8JOuGA>
 
-- Xamarin社群小聚 #2 (2018/02/28): Xamarin.Forms 之「Native Forms」混合協奏一部曲  
+- `(2018/02/28)` Xamarin Asia Developers社群小聚2018 #02: Xamarin.Forms 之「Native Forms」混合協奏一部曲  
   <https://www.facebook.com/events/1958348087815948/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7sh4tp6fxcDnT6mD9Q>
 
-- Xamarin社群小聚 #3 (2018/03/28): Xamarin.Forms 之 MVVMCross v.s. Prism 對抗戰  
+- `(2018/03/28)` Xamarin Asia Developers社群小聚2018 #03: Xamarin.Forms 之 MVVMCross v.s. Prism 對抗戰  
   <https://www.facebook.com/events/574129212938073/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7s5TR2_kax0nddmpMQ>
 
-- Xamarin社群小聚 #4 (2018/04/25): Xamarin 手機AR開發入門初體驗 — iOS ARKit  
+- `(2018/04/25)` Xamarin Asia Developers社群小聚2018 #04: Xamarin 手機AR開發入門初體驗 — iOS ARKit  
   <https://www.facebook.com/events/2063683477183946>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7tVKR43JBbedGJAUFw>
 
-- Study4TW-May-2018 (2018/05/26): ASP.NET Core 新手上路的七個路坑  
+- `(2018/05/26)` Study4TW-May-2018: ASP.NET Core 新手上路的七個路坑  
   <http://study4.tw/Activity/Details/17>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7t4mexgtF5ou6lVbsg>
 
-- Xamarin社群小聚 #5 (2018/05/30): 用 Rider 開發 Xamarin App  
+- `(2018/05/30)` Xamarin Asia Developers社群小聚2018 #05: 用 Rider 開發 Xamarin App  
   <https://www.facebook.com/events/237778106971884/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7t4xdkIF-UhUjJW_mQ>
 
-- Xamarin社群小聚 #6 (2018/07/04): ASP.NET Core SignalR & Xamarin.Forms  
+- `(2018/07/04)` Xamarin Asia Developers社群小聚2018 #06: ASP.NET Core SignalR & Xamarin.Forms  
   <https://www.facebook.com/events/152534075606566/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7uQ4u0VVdDZUE4ofWA>
 
-- Hacking Thursday Taiwan (2018/07/11): ASP.NET Core 帶您讀源碼 - WebSocket 篇  
+- `(2018/07/11)` Hacking Thursday Taiwan: ASP.NET Core 帶您讀源碼 - WebSocket 篇  
   <https://www.meetup.com/hackingthursday/events/251470731/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7uVaT-GXg4Yx4Q5pdA>
 
-- Xamarin社群小聚 #7 (2018/08/01): Reactive UI 與 Xamarin.Forms 的整合運用  
+- `(2018/08/01)` Xamarin Asia Developers社群小聚2018 #07: Reactive UI 與 Xamarin.Forms 的整合運用  
   <https://www.facebook.com/events/996901387138892>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7uV6hlF8g4RSE_jNgg>
   
-- Xamarin社群小聚 #8 (2018/08/30): SkiaSharp 在 Xamarin.Forms 的巧妙應用  
+- `(2018/08/30)` Xamarin Asia Developers社群小聚2018 #08: SkiaSharp 在 Xamarin.Forms 的巧妙應用  
   <https://www.facebook.com/events/1930666830559894>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7uYIM576KATdT9HZbw>
 
-- Study4.TW .NET Conf 2018 (2018/09/29): ASP.NET Core 如何串接Azure AD B2C驗證機制  
+- `(2018/09/29)` Study4.TW .NET Conf 2018: ASP.NET Core 如何串接Azure AD B2C驗證機制  
   <http://study4.tw/Activity/Details/20>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7vUeuj6LBfAm0opEXA>
 
-- Xamarin社群小聚 #9 (2018/10/03): Xamarin 串接 Azure B2C 服務  
+- `(2018/10/03)` Xamarin Asia Developers社群小聚2018 #09: Xamarin 串接 Azure B2C 服務  
   <https://www.facebook.com/events/224289281779289>  
+
+- `(2018/12/12)` Xamarin Asia Developers社群小聚2018 #10: Artificial Intelligence(AI) on Xamarin.Forms Part-1  
+  <https://www.facebook.com/events/270896696894065>
+
+- `(2019/01/09)` Xamarin Asia Developers社群小聚2019 #01: Artificial Intelligence(AI) on Xamarin.Forms Part-2  
+  <https://www.facebook.com/events/2208494779415338>
+
+- `(2019/03/06)` Xamarin Asia Developers社群小聚2019 #02: F# 與 MVU框架Fabulus 在 Xamarin 當中的使用介紹   
+  <https://www.facebook.com/events/325957884704810>
+  demo project: https://github.com/windperson/MyFabulousDemo
+
+- `(2019/03/23)` Xamarin Asia Developers線上直播小聚2019 #03: Xamarin watchOS App開發入門  
+  <https://www.facebook.com/events/1997622796942258>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr74Q-ogJx2eu7TuSSrA?e=5IDIyq>
+
+- `(2019/05/01)` Xamarin Asia Developers線上直播小聚2019 #04: Material Design by Xamarin.Forms   
+  <https://www.facebook.com/events/1188162584690642>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr74gxy13cSdXA9wibVg?e=jrFfiV>
+
+- `(2019/06/15)` Xamarin Asia Developers線上直播小聚2019 #05: Xamarin.Forms Fast Renderer   
+  <https://www.facebook.com/events/606910123140947>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr74t056DRhV9shVAxbg?e=XPrcwG>
+
+- `(2019/07/20)` Xamarin Asia Developers社群小聚2019 #06 實體小聚: Azure PlayFab with Xamarin  
+  <https://www.facebook.com/events/348868105775697>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7415vEgBdQqXNVEHKA?e=2xpRkA>
+
+- `(2019/08/31)` Xamarin Asia Developers線上直播小聚2019 #07: 在 Xamarin.Forms 上實現 Machine Learning 應用   
+  <https://www.facebook.com/events/2577461629148252>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr745W-0LFH3kEwUSMhg?e=gjyI9t>
+
+- `(2019/10/05)` Xamarin Asia Developers線上直播小聚2019 #08: Xamarin 語音辨識 with Native Platform or Azure  
+  <https://www.facebook.com/events/364951457792556>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75EVCA9f9Me_XwctdQ?e=nCBYKY>
+
+- `(2019/11/30)` Xamarin Asia Developers線上直播小聚2019 #09: MonoGame Introduction  
+  <https://www.facebook.com/events/403391487207077>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75V46XBxd6fg6OG9QA?e=Cmtbnc>
+
+- `(2019/12/27)` DDD Taiwan 12月聚會：ddd 在 .NET Core 上的另類實現 - Orleans  
+  <https://www.facebook.com/events/453492625566230>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YTl7071ej6MLNgMA?e=hIbFOU>
+
+- `(2020/01/18)` Xamarin Asia Developers線上直播小聚2020 #01: How to Use Icon Fonts in Xamarin.Forms  
+  <https://www.facebook.com/events/403391487207077>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YkcooaFN0HkNMsGQ?e=Eqw1NG>
 
 ### Open Source Project(s) contribution
 
