@@ -169,7 +169,7 @@
 - Demo using docker to run .NET Core test project:  
   <https://github.com/windperson/demo_docker_dotnetcore_test>
 
-- Deom using .Net Core 2.1 HostBuilder to create a daemon-like service:  
+- Demo using .Net Core 2.1 HostBuilder to create a daemon-like service:  
   <https://github.com/windperson/NetCoreHostBuilder_demo>
 
 - Demo to show how to use "ClientWebSocket" API:  
