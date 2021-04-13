@@ -132,12 +132,16 @@
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YkcooaFN0HkNMsGQ?e=Eqw1NG>
 
 - `(2020/01/30)` XADs 社群 2021 #01 活動: Azure Spatial Anchor 在Xamarin 與 HoloLens2 的 AR 應用展示  
-  <https://www.facebook.com/events/777138102880365>
+  <https://www.facebook.com/events/777138102880365>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7_kdz9FXTsbYTrbIHQ>
 
-- `(2021/03/06)` twMVC#41: HoloLens 2的 MR（Mixed Reality）開發入門
+- `(2021/03/06)` twMVC#41: HoloLens 2的 MR（Mixed Reality）開發入門  
   <https://mvc.tw/event/2021/3/6>  
   slide: <https://www.slideshare.net/twMVC/twmvc41-hololens2-mr>
+
+- `(2021/04/07)` Azure Taiwan Meetup #39: Azure Spatial Anchors 空間定位服務簡介  
+  <https://www.meetup.com/Azure-Taiwan/events/276415654>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8JpMa3bLg9vJdg_g7A>
 
 ### Open Source Project(s) contribution
 
