@@ -23,7 +23,7 @@
   Xamarin watchOS开发第一步  
   <https://blog.csdn.net/sD7O95O/article/details/90526403>
   ![screen shot](./pics/Xamarin中国峰会2019.png)
-- `(2020/12/18)` .NET Conf 2020 By study4TW:  
+- `(2020/12/19)` .NET Conf 2020 By study4TW:  
   HoloLens 2的 MR（Mixed Reality）開發入門  
   <https://dotnetconf2020.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2020byStudy4tw.png)
@@ -131,7 +131,7 @@
   <https://www.facebook.com/events/403391487207077>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr75YkcooaFN0HkNMsGQ?e=Eqw1NG>
 
-- `(2020/01/30)` XADs 社群 2021 #01 活動: Azure Spatial Anchor 在Xamarin 與 HoloLens2 的 AR 應用展示  
+- `(2021/01/30)` XADs 社群 2021 #01 活動: Azure Spatial Anchor 在Xamarin 與 HoloLens2 的 AR 應用展示  
   <https://www.facebook.com/events/777138102880365>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7_kdz9FXTsbYTrbIHQ>
 
