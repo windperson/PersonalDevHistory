@@ -153,6 +153,10 @@
 
 ### Code Project/Tools
 
+- BlazorSwitchButton: A open source Blazor UI Component thate package the traditional Bootstrap component [Bootstrap Switch Button](https://gitbrent.github.io/bootstrap-switch-button/).  
+  Source: <https://github.com/GranDen-Corp/BlazorSwitchButton>  
+  Intro: <https://www.facebook.com/groups/blazor/permalink/1437738953100182>
+
 - A forked websocket client library of WebSocketSharp that is shrinked size for client only and .NET Standard 2.0 compatible:
   <https://github.com/GranDen-Corp/websocket-sharp_client>
 
