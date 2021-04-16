@@ -151,6 +151,10 @@
   Issues:  
   <https://github.com/aspnet/SignalR/issues/2597>
 
+- Orleans(<https://github.com/dotnet/orleans>)
+  Issue provide project upgrade troubleshooting result:  
+  <https://github.com/dotnet/orleans/issues/6393#issuecomment-598133947>
+
 ### Code Project/Tools
 
 - BlazorSwitchButton: A open source Blazor UI Component thate package the traditional Bootstrap component [Bootstrap Switch Button](https://gitbrent.github.io/bootstrap-switch-button/).  
