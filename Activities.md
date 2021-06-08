@@ -147,6 +147,10 @@
   <https://www.facebook.com/events/196017905347380>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8Jsu_WDjvKDdEJI-9g>
 
+- `(2021/05/08)` XADs 社群 2021 #03 活動: Android App Widgets with Xamarin Forms  
+  <https://www.facebook.com/events/381026323329933>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8JxphjKdChBhcJ7Zyg?e=M6htnI>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
