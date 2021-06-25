@@ -151,6 +151,10 @@
   <https://www.facebook.com/events/381026323329933>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8JxphjKdChBhcJ7Zyg?e=M6htnI>
 
+- `(2021/06/16)` Will 保哥的技術交流中心: 使用 Orleans 開發分散式系統不費力  
+  <https://www.facebook.com/events/313397287129422/>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8J1rh7vmbfq_ru_lKA>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
