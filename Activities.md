@@ -155,6 +155,11 @@
   <https://www.facebook.com/events/313397287129422/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8J1rh7vmbfq_ru_lKA>
 
+- `(2021/07/18)` MR/XR Developers 社群 2021 #1 活動：介紹幾種分享HoloLens App應用呈現畫面的方法以及Holographic Remoting簡介  
+  <https://www.facebook.com/events/2643830632587053/>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8KAuxUOXuUhKGP8xPg>
+  
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
