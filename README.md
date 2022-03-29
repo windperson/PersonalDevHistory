@@ -4,7 +4,7 @@
 
 - First Name : Isak
 - Last Name : Pao
-- Email : windperson@msn.com
+- Online Contact Info : <https://linktr.ee/windperson>
 
 ## Activities
 
@@ -27,6 +27,10 @@
   HoloLens 2的 MR（Mixed Reality）開發入門  
   <https://dotnetconf2020.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2020byStudy4tw.png)
+- `(2021/12/18)` .NET Conf 2021 By study4TW:  
+  元宇宙開發秘訣大公開
+  <https://dotnetconf.study4.tw/Speaker#BaoChengyou>
+  ![screen shot](./pics/dotnetConf2021byStudy4tw.png)
 
 ### Speaking (User group meetup / Conf Lighting talk)
 
