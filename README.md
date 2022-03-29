@@ -162,7 +162,11 @@
 - `(2021/07/18)` MR/XR Developers 社群 2021 #1 活動：介紹幾種分享HoloLens App應用呈現畫面的方法以及Holographic Remoting簡介  
   <https://www.facebook.com/events/2643830632587053/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8KAuxUOXuUhKGP8xPg>
-  
+
+- `(2021/11/06)` XADs 社群 2021 #04 活動：Stride - Build your 3D Game by Xamarin    
+  <https://www.facebook.com/events/391288129313021/>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8LAo6pDjzXoZ0awwaQ>
+
 
 ### Open Source Project(s) contribution
 
