@@ -165,7 +165,7 @@
 
 - `(2021/11/06)` XADs 社群 2021 #04 活動：Stride - Build your 3D Game by Xamarin    
   <https://www.facebook.com/events/391288129313021/>  
-  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8LAo6pDjzXoZ0awwaQ>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8LAoz9FXTsbYTrbIHQ>
 
 
 ### Open Source Project(s) contribution
@@ -175,10 +175,12 @@
   <https://github.com/aspnet/SignalR/pull/2542>  
   Issues:  
   <https://github.com/aspnet/SignalR/issues/2597>
-
 - Orleans(<https://github.com/dotnet/orleans>)
   Issue provide project upgrade troubleshooting result:  
   <https://github.com/dotnet/orleans/issues/6393#issuecomment-598133947>
+- Stride Game Engine(<https://github.com/stride3d/stride>)
+  Provide a corrected resource name collision example game project:
+  https://github.com/stride3d/stride/issues/1183#issuecomment-964054620
 
 ### Code Project/Tools
 
