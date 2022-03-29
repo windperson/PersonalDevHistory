@@ -11,8 +11,8 @@
 ### Speaking (Conference)
 
 - `(2016/09/22)` Container Summit 2016 - Docker 從入門到入迷
-   <https://www.ithome.com.tw/video/109004>
-   slide: <https://windperson.github.io//ithome-container-summit-2016-slide>
+  <https://www.ithome.com.tw/video/109004>  
+  slide: <https://windperson.github.io//ithome-container-summit-2016-slide>
 
 - `(2017/08/06)` COSCUP 2017:  
   Go,Java,C# 的 gRPC + Protocol Buffer 共同大亂鬥  
