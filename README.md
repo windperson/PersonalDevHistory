@@ -16,8 +16,8 @@
   slide: <https://www.slideshare.net/ChenYuPao/go-java-cgrpcprotocol-buffer>
 - `(2018/11/10)` MonkeyFest 2018 - Global Xamarin Bootcamp in Taipei :  
   FP(Functional Programming) on Xamarin 入門  
-  https://www.facebook.com/events/302396750321401  
-  https://www.accupass.com/go/monkeyfest18taipei  
+  <https://www.facebook.com/events/302396750321401>  
+  <https://www.accupass.com/go/monkeyfest18taipei>  
   ![screen shot](./pics/MonkeyFest%202018_GlobalXamarinBootcampInTaipei.png)
 - `(2019/05/26)` 2019 Xamarin 移动跨平台技术中国峰会:  
   Xamarin watchOS开发第一步  
@@ -91,7 +91,7 @@
 - `(2019/01/09)` Xamarin Asia Developers社群小聚2019 #01: Artificial Intelligence(AI) on Xamarin.Forms Part-2  
   <https://www.facebook.com/events/2208494779415338>
 
-- `(2019/02/16)` twMVC#34 lighting talk: ASP.NET Core SignalRwithMicrosoft Orleans  
+- `(2019/02/16)` twMVC#34 lighting talk: ASP.NET Core SignalR with Microsoft Orleans  
   <https://mvc.tw/event/2019/2/16>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr7vlokHoTKW-NeNW1NA>
 
