@@ -35,6 +35,10 @@
   元宇宙開發秘訣大公開
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2021byStudy4tw.png)
+- `(2022/07/26)` iThome Taiwan Cloud Summit 2022
+  使用 Microsoft Orleans 開發高併發高可用性的分散式雲原生服務
+  <https://cloudsummit.ithome.com.tw/2022/speaker-page/574>
+  ![screen shot](./pics/ithome_CloudSummit_2022.png)
 
 ### Speaking (User group meetup / Conf Lighting talk)
 
