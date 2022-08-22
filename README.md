@@ -175,6 +175,9 @@
   <https://www.facebook.com/events/391288129313021/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8LAoz9FXTsbYTrbIHQ>
 
+- `(2022/08/21)` XADs 社群 2022 #02 活動：Blazor Hybrid on .NET MAUI 之 C# 超融合之術
+  <https://www.facebook.com/events/3001996516765119/>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8NAD5kgWq78xIXPQmA>
 
 ### Open Source Project(s) contribution
 
