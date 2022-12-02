@@ -179,6 +179,10 @@
   <https://www.facebook.com/events/3001996516765119/>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8NAD5kgWq78xIXPQmA>
 
+- `(2022/11/19)` twMVC#46 lighting talk: .NET 7 家族新成員：Microsoft Orleans v7
+  <https://mvc.tw/event/2022/11/19>  
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8N4oEEIa94_U86SCJw>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
@@ -186,10 +190,12 @@
   <https://github.com/aspnet/SignalR/pull/2542>  
   Issues:  
   <https://github.com/aspnet/SignalR/issues/2597>
-- Orleans(<https://github.com/dotnet/orleans>)
+- Orleans(<https://github.com/dotnet/orleans>)  
+  Pull Requests:  
+  <https://github.com/dotnet/orleans/pull/7879>  
   Issue provide project upgrade troubleshooting result:  
   <https://github.com/dotnet/orleans/issues/6393#issuecomment-598133947>
-- Stride Game Engine(<https://github.com/stride3d/stride>)
+- Stride Game Engine(<https://github.com/stride3d/stride>)  
   Provide a corrected resource name collision example game project:
   https://github.com/stride3d/stride/issues/1183#issuecomment-964054620
 
