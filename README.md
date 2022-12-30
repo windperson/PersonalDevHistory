@@ -39,6 +39,10 @@
   使用 Microsoft Orleans 開發高併發高可用性的分散式雲原生服務
   <https://cloudsummit.ithome.com.tw/2022/speaker-page/574>
   ![screen shot](./pics/ithome_CloudSummit_2022.png)
+- `(2022/12/17)` .NET Conf 2021 By study4TW:  
+  ASP .NET Core 7家族新成員也是老戰友：Microsoft Orleans v7 介紹
+  <https://dotnetconf.study4.tw/Speaker#BaoChengyou>
+  ![screen shot](./pics/dotnetConf2022byStudy4tw.png)
 
 ### Speaking (User group meetup / Conf Lighting talk)
 
