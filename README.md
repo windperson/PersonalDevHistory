@@ -193,6 +193,10 @@
   <https://mvc.tw/event/2022/11/19>  
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8N4oEEIa94_U86SCJw>
 
+- `(2023/04/04)` XADs 社群 2023 #02 活動：.NET MAUI with OpenAI: Whisper
+  <https://www.facebook.com/events/2259227524268024>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8aMWcrrhVowToCKHUQ?e=pGlH1p>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
