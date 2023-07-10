@@ -197,6 +197,10 @@
   <https://www.facebook.com/events/2259227524268024>
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8aMWcrrhVowToCKHUQ?e=pGlH1p>
 
+- `(2023/05/27)` XADs 社群 2023 #03 活動：.NET MAUI with OpenAI: Whisper (Part 2)
+  <https://www.facebook.com/events/549320557278272>
+  slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8agWyARGbtTHN2SynQ?e=DNDplb>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
