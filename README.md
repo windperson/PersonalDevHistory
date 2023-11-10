@@ -50,6 +50,11 @@
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2022byStudy4tw.png)
 
+- `(2023/11/08)` iThome Mobile Web Conference 2023:
+  Blazor寫一次就討好Web＆App開發
+  <https://modernweb.tw/2023/session-page/2420>
+  ![screen shot](./pics/ithome_mwc2023.png)
+
 ### Speaking (User group meetup / Conf Lighting talk)
 
 - `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
