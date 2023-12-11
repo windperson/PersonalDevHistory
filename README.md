@@ -46,17 +46,17 @@
   ![screen shot](./pics/ithome_CloudSummit_2022.png)
 
 - `(2022/12/17)` .NET Conf 2022 By study4TW:  
-  ASP .NET Core 7家族新成員也是老戰友：Microsoft Orleans v7 介紹
+  ASP .NET Core 7家族新成員也是老戰友：Microsoft Orleans v7 介紹  
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2022byStudy4tw.png)
 
-- `(2023/11/08)` iThome Mobile Web Conference 2023:
-  Blazor寫一次就討好Web＆App開發
+- `(2023/11/08)` iThome Mobile Web Conference 2023:  
+  Blazor寫一次就討好Web＆App開發  
   <https://modernweb.tw/2023/session-page/2420>  
   ![screen shot](./pics/ithome_mwc2023.png)
 
 - `(2023/12/10)` .NET Conf 2023 By study4TW:  
-  除了刻鋼板表單 CRUD 懂 C# 也能打造美幻 3D
+  除了刻鋼板表單 CRUD 懂 C# 也能打造美幻 3D  
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2023byStudy4tw.png)
 
