@@ -60,6 +60,11 @@
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2023byStudy4tw.png)
 
+- `(2024/09/11)` : Hello World Dev Conference 2024:  
+  BenchmarkDotNET 科學化 .NET 應用效能調校  
+  <https://hwdc.ithome.com.tw/2024/session-page/3203>  
+  ![screen shot](./pics/ithome_hwdc_2024.png)
+
 ### Speaking (User group meetup / Conf Lighting talk)
 
 - `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
