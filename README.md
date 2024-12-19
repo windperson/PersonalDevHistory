@@ -30,12 +30,12 @@
   <https://blog.csdn.net/sD7O95O/article/details/90526403>  
   ![screen shot](./pics/Xamarin中国峰会2019.png)
 
-- `(2020/12/19)` .NET Conf 2020 By study4TW:  
+- `(2020/12/19)` .NET Conf 2020 By Study4TW:  
   HoloLens 2的 MR（Mixed Reality）開發入門  
   <https://dotnetconf2020.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2020byStudy4tw.png)
 
-- `(2021/12/18)` .NET Conf 2021 By study4TW:  
+- `(2021/12/18)` .NET Conf 2021 By Study4TW:  
   元宇宙開發秘訣大公開
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>
   ![screen shot](./pics/dotnetConf2021byStudy4tw.png)
@@ -45,7 +45,7 @@
   <https://cloudsummit.ithome.com.tw/2022/speaker-page/574>  
   ![screen shot](./pics/ithome_CloudSummit_2022.png)
 
-- `(2022/12/17)` .NET Conf 2022 By study4TW:  
+- `(2022/12/17)` .NET Conf 2022 By Study4TW:  
   ASP .NET Core 7家族新成員也是老戰友：Microsoft Orleans v7 介紹  
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2022byStudy4tw.png)
@@ -55,15 +55,20 @@
   <https://modernweb.tw/2023/session-page/2420>  
   ![screen shot](./pics/ithome_mwc2023.png)
 
-- `(2023/12/10)` .NET Conf 2023 By study4TW:  
+- `(2023/12/10)` .NET Conf 2023 By Study4TW:  
   除了刻鋼板表單 CRUD 懂 C# 也能打造美幻 3D  
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2023byStudy4tw.png)
 
-- `(2024/09/11)` : Hello World Dev Conference 2024:  
+- `(2024/09/11)` : iTHome Hello World Dev Conference 2024:  
   BenchmarkDotNET 科學化 .NET 應用效能調校  
   <https://hwdc.ithome.com.tw/2024/session-page/3203>  
   ![screen shot](./pics/ithome_hwdc_2024.png)
+
+- `(2024/12/15)` .NET Conf 2024 By Study4TW:  
+  PowerShell TDD 起步走  
+  <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
+  ![screen shot](./pics/dotnetConf2024byStudy4tw.png)
 
 ### Speaking (User group meetup / Conf Lighting talk)
 
