@@ -221,6 +221,10 @@
   <https://www.facebook.com/events/549320557278272>
   slide: <https://1drv.ms/p/s!AoyN1fhOtyhr8agWyARGbtTHN2SynQ?e=DNDplb>
 
+- `(2025/02/25)` twMVC#52: BenchmarkDotNET 科學化 .NET 應用效能調校（導演剪輯版）  
+  <https://mvc.tw/event/2025/2/22>  
+  slide: <https://windperson.github.io/Hello_World_devconf_2024-slide/#/title-slide>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
