@@ -10,7 +10,7 @@
 
 ### Speaking (Conference)
 
-- `(2016/09/22)` Container Summit 2016 - Docker 從入門到入迷
+- `(2016/09/22)` Container Summit 2016 - Docker 從入門到入迷  
   <https://www.ithome.com.tw/video/109004>  
   slide: <https://windperson.github.io//ithome-container-summit-2016-slide>
 
@@ -243,7 +243,7 @@
   Issue provide project upgrade troubleshooting result:  
   <https://github.com/dotnet/orleans/issues/6393#issuecomment-598133947>
 - Stride Game Engine(<https://github.com/stride3d/stride>)  
-  Provide a corrected resource name collision example game project:
+  Provide a corrected resource name collision example game project:  
   https://github.com/stride3d/stride/issues/1183#issuecomment-964054620
 
 ### Code Project/Tools
