@@ -70,6 +70,11 @@
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2024byStudy4tw.png)
 
+- `(2025/10/14)` : iTHome Hello World Dev Conference 2025:  
+  終究要有Markdown何不一開始就Quarto?  
+  <https://hwdc.ithome.com.tw/2025/session-page/4052>  
+  ![screen shot](./pics/ithome_hwdc_2025.png)
+
 ### Speaking (User group meetup / Conf Lighting talk)
 
 - `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
