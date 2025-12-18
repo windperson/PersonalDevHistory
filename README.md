@@ -75,6 +75,11 @@
   <https://hwdc.ithome.com.tw/2025/session-page/4052>  
   ![screen shot](./pics/ithome_hwdc_2025.png)
 
+- `(2025/11/29)` .NET Conf 2025 By Study4TW:  
+  地端AIAgent+AutoGen, Token Intelligence無極限  
+  <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
+  ![screen shot](./pics/dotnetConf2025byStudy4tw.png)
+
 ### Speaking (User group meetup / Conf Lighting talk)
 
 - `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
