@@ -235,6 +235,10 @@
   <https://mvc.tw/event/2025/2/22>  
   slide: <https://windperson.github.io/Hello_World_devconf_2024-slide/#/title-slide>
 
+- `(2025/12/22)` Agile.Taipei 2025.12 月聚會:用 VSCode + Roo Code 打造你的智慧 Quarto 文件！  
+  <https://fb.me/e/3PnfIT3we>  
+  materials: <https://windperson.github.io/QuartoRooCodeWorkshop_doc/>
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
