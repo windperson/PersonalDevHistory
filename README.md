@@ -239,6 +239,12 @@
   <https://fb.me/e/3PnfIT3we>  
   materials: <https://windperson.github.io/QuartoRooCodeWorkshop_doc/>
 
+- `(2026/03/31)` NVIDIA NCA‑GENL 生成式 AI 认证备考通关直播  
+  <https://mp.weixin.qq.com/s/ygChqqQds-Fi8hOd2NYhEQ>  
+  ![screen shot](./pics/2026-0331_GPUS_devlopers.png)
+  [slide](./slides/NCA-GENL考照心得.pdf)
+
+
 ### Open Source Project(s) contribution
 
 - ASP.NET Core SignalR(<https://github.com/aspnet/signalr>)  
