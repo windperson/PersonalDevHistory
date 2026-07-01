@@ -80,6 +80,11 @@
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2025byStudy4tw.png)
 
+- `(2026/07/01)` iThome Taiwan Cloud Summit 2026  
+  Microsoft Agent Framework + Orleans 打造雲地協同 AI 工作流   
+  <https://cloudsummit.ithome.com.tw/2026/speaker/574>  
+  ![screen shot](./pics/ithome_CloudSummit_2026.png)
+
 ### Speaking (User group meetup / Conf Lighting talk)
 
 - `(2017/10/24)` Golang Taipei Gathering #28: Proto.Actor"串接Go與C#簡易上手  
