@@ -80,10 +80,15 @@
   <https://dotnetconf.study4.tw/Speaker#BaoChengyou>  
   ![screen shot](./pics/dotnetConf2025byStudy4tw.png)
 
-- `(2026/07/01)` iThome Taiwan Cloud Summit 2026  
+- `(2026/07/01)` iThome Taiwan Cloud Summit 2026:  
   Microsoft Agent Framework + Orleans 打造雲地協同 AI 工作流   
   <https://cloudsummit.ithome.com.tw/2026/speaker/574>  
   ![screen shot](./pics/ithome_CloudSummit_2026.png)
+
+- `(2026/08/09)` COSCUP 2026:  
+  在地的模型當然要可以跑在地端  
+  <https://coscup.org/2026/session/G8QTLU>  
+  ![screen shot](./pics/COSCUP_2026.png)
 
 ### Speaking (User group meetup / Conf Lighting talk)
 
